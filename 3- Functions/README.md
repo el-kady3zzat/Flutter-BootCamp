@@ -18,6 +18,8 @@ This Dart program finds the smallest number in a list of integers using differen
 ## Example Output
 For the list `[1, 5, 3, 10, 50, -2, 130, 24]`, the program prints:
 
+![Output](https://github.com/user-attachments/assets/fe80777a-ab7b-4aca-9ece-380567146f82)
+
 
 
 ## Highlights
