@@ -11,15 +11,25 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    // Initialize the SizeConfig class to adapt the app to various screen sizes.
     SizeConfig().init(context);
 
     return MaterialApp(
+      // Removes the "debug" banner from the top-right corner of the app.
       debugShowCheckedModeBanner: false,
+
+      // The title of the app.
       title: 'Flutter BootCamp',
+
       theme: ThemeData(
+        // Sets the color of the AppBar in the app's theme.
         appBarTheme: AppBarTheme(color: Colors.blue[900]),
+
+        // Specifies the default font family for the app.
         fontFamily: 'Suwannaphum',
       ),
+
+      // Sets the initial screen of the app to be the HomePage widget.
       home: const HomePage(),
     );
   }
