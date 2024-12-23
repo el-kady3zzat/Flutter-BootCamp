@@ -1,0 +1,17 @@
+{
+    "enter_your_name": "أدخل اسمك",
+    "enter_your_email": "أدخل بريدك الالكتروني",
+    "enter_your_password": "أدخل كلمة مرورك",
+    "confirm_your_password": "أكد كلمة مرورك",
+    "sign_up": "تسجيل",
+    "welcome": "مرحباً",
+    "account_created_successfully": "تم إنشاء الحساب بنجاح",
+    "thanks": "شكرًا",
+    "password_do_not_match": "كلمة المرور غير متطابقة",
+    "shopping_page": "صفحة التسوق",
+    "our_products": "المنتجات",
+    "hot_offers": "العروض",
+    "name": "اسمك",
+    "password": "كلمة مرورك",
+    "email": "بريدك الالكتروني"
+}

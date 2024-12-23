@@ -1,0 +1,17 @@
+{
+    "enter_your_name": "Enter your name",
+    "enter_your_email": "Enter your email",
+    "enter_your_password": "Enter your password",
+    "confirm_your_password": "Confirm your password",
+    "sign_up": "Sign Up",
+    "welcome": "Welcome",
+    "account_created_successfully": "Account Created Successfully",
+    "thanks": "Thanks",
+    "password_do_not_match": "Password do not match",
+    "shopping_page": "Shopping Page",
+    "our_products": "Our Products",
+    "hot_offers": "Hot Offers",
+    "name": "name",
+    "password": "password",
+    "email": "email"
+}
