@@ -1,0 +1,1 @@
+# This repository contains tasks from the 'Mobile Development by Flutter Bootcamp' provided by [Sprints](https://sprints.ai/)
